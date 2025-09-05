@@ -9,6 +9,7 @@ INSTALL_REQUIRES = [
     "numpy>=1.17",
     "scikit-learn",
     "ipykernel"
+    "stim"
 ]
 
 setup(
