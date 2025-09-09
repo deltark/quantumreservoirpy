@@ -8,8 +8,8 @@ INSTALL_REQUIRES = [
     "qiskit-aer>=0.12.0",
     "numpy>=1.17",
     "scikit-learn",
-    "ipykernel"
-    "stim"
+    "ipykernel",
+    "Stim @ git+https://github.com/deltark/Stim.git",
     "bitarray"
 ]
 
